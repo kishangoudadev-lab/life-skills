@@ -1,84 +1,50 @@
 # Learning Process
 
----
-
-## 1. How to Learn Faster with the Feynman Technique
+## 1. How to Learn Faster with the Feynman Technique  
+Video - [Watch here](https://www.youtube.com/watch?v=_f-qkGJBPts)  
 
 **Question 1:**  
-*What is the Feynman Technique?*  
-**Answer:** A method of learning where you explain a concept in simple terms as if teaching someone else.
+What is the Feynman Technique? Explain in 1 line.  
+- Explaining a concept in simple words as if teaching someone else helps identify gaps in understanding and strengthens memory.  
 
 ---
 
-## 2. Learning How to Learn TED Talk by Barbara Oakley
+## 2. Learning How to Learn – TED Talk by Barbara Oakley  
+Video - [Watch here](https://www.youtube.com/watch?v=O96fE1E-rf8)  
 
 **Question 2:**  
-*In this video, what was the most interesting story or idea for you?*  
-**Answer:** The story about the importance of alternating between **focused and diffused modes of thinking** to learn effectively was most interesting. It shows how relaxation and daydreaming help consolidate knowledge.
+In this video, what was the most interesting story or idea for you?  
+- Barbara Oakley’s story of struggling with math and then mastering it shows that anyone can learn difficult skills with proper techniques and mindset.
+  
+- Use **focused mode** for problem-solving and **diffused mode** for creative insights.  
+- Apply **spaced repetition** to strengthen memory over time.  
+- Break learning into **chunks** to understand and recall better.  
+- Practice **retrieval (testing yourself)** instead of passive rereading. 
 
 **Question 3:**  
-*What are active and diffused modes of thinking?*  
-**Answer:**  
-- **Active mode:** Focused, concentrated thinking used when solving problems step by step.  
-- **Diffused mode:** Relaxed, broad thinking used to make connections and understand concepts creatively.
+What are active and diffused modes of thinking?  
+- **Active mode:** Focused problem-solving and logical thinking.  
+- **Diffused mode:** Relaxed, creative thinking that helps form connections and insights.  
 
 ---
 
-## 3. Learn Anything in 20 Hours
+## 3. Learn Anything in 20 Hours  
+Video - [Watch here](https://www.youtube.com/watch?v=5MgBikgcWnY)  
 
 **Question 4:**  
-*According to the video, what are the steps to take when approaching a new topic?*  
-**Answer:**  
-1. Deconstruct the skill into smaller sub-skills  
-2. Learn enough to self-correct  
-3. Remove barriers to practice  
-4. Practice at least 20 hours  
-5. Pre-commit to learning the skill
+According to the video, what are the steps to take when approaching a new topic? Only mention the points.  
+* Break the skill into smaller parts  
+* Learn just enough to self-correct  
+* Remove distractions  
+* Practice deliberately and consistently  
 
 ---
 
-## Learning Principles in the Bootcamp
+## 5. Actions to Improve Your Learning Process  
 
-- Doing things with **100% involvement**  
-- Programming is essentially a result of your **sustained and concentrated attention**  
-- **Preserving attention** is a skill that improves with practice  
-- Read up on deep work: [Deep Work Blog](https://doist.com/blog/deep-work/)  
-- **Work when you work, play when you play** is a good thumb rule  
-- Always keep your **phone on silent** and remove notifications from the home screen  
-- Keep only **work-related app notifications**  
-- Consider blocking social media during work hours (Tools: **TimeLimit, Freedom**, etc.)  
-- Track your time using apps like **Boosted** to improve productivity  
-
-### How to Learn Software Concepts
-
-1. Where is this concept used or applied?  
-2. What is the concept? Can I explain it in my own words?  
-3. How can I implement it in **code or design**?  
-4. By when do I need to complete **practice drills, assignments, or projects** for this topic?  
-
-**Few points to keep in mind:**  
-
-- Deadlines are a tool to allocate time for topics  
-- Focus on the concept with **curiosity and joy**  
-- Make learning **fun and easy**  
-- Make the concept **your own** – your words, understanding, and code  
-- You know a concept well when you can **teach it**  
-- Master a few skills well for long-term **success**  
-
-### How Trainees Are Evaluated
-
-- Understanding of concepts, verbally or in writing  
-- Implementation of concepts in code clearly  
-- Work intensity and completion within allotted time  
-- Proactive communication about obstacles  
-- Clear and precise communication  
-
-**Question 5:**  
-*What are some actions you can take going forward to improve your learning process?*  
-**Answer:**  
-- Practice the **Feynman Technique** regularly to explain concepts in simple terms  
-- Alternate between **focused and diffused thinking** while learning  
-- Break down complex skills into smaller parts and practice consistently  
-- Remove distractions and dedicate uninterrupted time for learning  
-- Track progress and reflect on concepts to reinforce understanding  
-- Teach others or document learning to strengthen mastery  
+- Use Feynman Technique regularly  
+- Alternate focused and diffused modes of thinking  
+- Break complex skills into smaller, manageable parts  
+- Dedicate uninterrupted time and track progress  
+- Teach or explain concepts to reinforce understanding  
+- Master a few skills deeply rather than many superficially
