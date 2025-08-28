@@ -1,2 +1,2 @@
-# life-skills
+# life-skills-track
 Life skill repository
