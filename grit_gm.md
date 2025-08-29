@@ -7,7 +7,7 @@
 Paraphrase (summarize) the video in 1–2 lines.  
 - Grit means staying passionate and working hard for long-term goals. Success comes more from effort and persistence than from talent.  
 
----
+--- 
 
 ## 2. Introduction to Growth Mindset  
 **Video** – [Source](https://www.youtube.com/watch?v=75GFzikmRY0) (8:25 minutes)  
